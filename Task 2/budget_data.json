@@ -1,0 +1,14 @@
+[
+    {
+        "type": "income",
+        "category": "salary",
+        "amount": 45000.0,
+        "date": "2024-07-02 22:58:39.045631"
+    },
+    {
+        "type": "expense",
+        "category": "Rent",
+        "amount": 7000.0,
+        "date": "2024-07-02 22:58:58.864736"
+    }
+]
